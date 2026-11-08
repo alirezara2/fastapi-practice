@@ -17,7 +17,7 @@
   - استفاده از **JWT** (JSON Web Tokens) برای مدیریت نشست‌ها (Sessions).
   - **هش کردن پسوردها (Password Hashing)** با استفاده از الگوریتم‌های امن (مثل `bcrypt` یا `passlib`).
 - **اتصال به دیتابیس (Database Integration):**
-  - کار با **SQLAlchemy** به عنوان ORM (برای دیتابیس‌های PostgreSQL یا SQLite).
+  - کار با **SQLAlchemy** به عنوان ORM 
   - مدیریت مدل‌ها (Models) و اسکیماها (Schemas).
 - **اعتبارسنجی داده‌ها (Data Validation):** استفاده از **Pydantic** برای تضمین صحت داده‌های ورودی و خروجی.
 
@@ -29,7 +29,7 @@
 - **Pydantic** (اعتبارسنجی داده‌ها)
 - **Passlib / Bcrypt** (هش کردن پسوردها)
 - **Python-JOSE** (مدیریت JWT)
-- **SQLite** (دیتابیس لوکال برای تست)
+
 
 ## 📂 ساختار پروژه (مثال)
 
